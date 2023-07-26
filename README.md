@@ -1,10 +1,17 @@
 ### Hi there, I am Seth 👋
 
-I am a Mathematics and Computer Science graduate and the creator of seekmysalary.com
+Hi there, I am a Mathematics and Computer Science graduate and the creator of seekmysalary.com
 
-I am passionate about web development and like to learn everything I can about everything modern full-stack applications, including frontend, backend, and infrastructure (AWS). I enjoy coding in the following languages Python, Javascript, Typescript, HTML, and CSS and have strong knowledge of AWS, cloud-native architectures, and RESTful APIs.
+Current tech stack:
+Javascript, Typescript, Python 
+HTML, CSS, Tailwindcss
+React, Node, Next
+AWS, AWS CDK, SST DEV 
+GitHub Actions
 
-My next goal is to learn, React, Node, TailwindCSS, and AWS SDK (Typescript) as I love the idea of being able to build a full-stack application in only Typescript.
+I like to learn everything I can about everything modern full-stack applications, including frontend, backend, and infrastructure (AWS). I have strong knowledge of AWS, cloud-native architectures, and became an AWS Certified Solutions Architect Associate early this year.
+
+I recently moved from Perth to Melbourne so if you are looking to hire a graduate web developer based in Melbourne CBD please feel free to contact me.
 
 If you are looking to hire a graduate web developer based in Melbourne CBD please feel free to contact me.
 
