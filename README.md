@@ -11,9 +11,7 @@ GitHub Actions
 
 I like to learn everything I can about everything modern full-stack applications, including frontend, backend, and infrastructure (AWS). I have strong knowledge of AWS, cloud-native architectures, and became an AWS Certified Solutions Architect Associate early this year.
 
-I recently moved from Perth to Melbourne so if you are looking to hire a graduate web developer based in Melbourne CBD please feel free to contact me.
-
-If you are looking to hire a graduate web developer based in Melbourne CBD please feel free to contact me.
+I have moved from Perth to Melbourne
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
