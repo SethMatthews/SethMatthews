@@ -11,7 +11,7 @@ GitHub Actions
 
 I like to learn everything I can about everything modern full-stack applications, including frontend, backend, and infrastructure (AWS). I have strong knowledge of AWS, cloud-native architectures, and became an AWS Certified Solutions Architect Associate early this year.
 
-I have moved from Perth to Melbourne
+Based in Perth, WA
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
